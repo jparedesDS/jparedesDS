@@ -52,5 +52,8 @@
 	</tr>
 </table>
 <!-- ------------------------------------------------------------------------------------ -->
-
+ <div align="center">
+<a href="https://buymeacoffee.com/joseparedes" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+</a>
 <!-- ------------------------------------------------------------------------------------ -->
